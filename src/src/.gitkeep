@@ -1,0 +1,22 @@
+# Thư mục src/
+
+Chứa mã nguồn của đồ án
+
+## Cấu trúc:
+
+```
+src/
+├── frontend/              # Frontend Next.js + React + Tailwind
+├── backend/               # Backend Node.js + Express + MySQL
+├── init-db.sql           # Database schema và sample data
+├── README.md             # Hướng dẫn cài đặt
+├── .gitignore
+└── package.json
+```
+
+## Lưu ý khi nộp:
+
+- **XÓA** các thư mục `node_modules/` trong backend và frontend
+- **XÓA** thư mục `.next/` trong frontend
+- **KHÔNG** đưa file `.env` có thông tin thật vào
+- Chỉ giữ file `.env.example` làm mẫu

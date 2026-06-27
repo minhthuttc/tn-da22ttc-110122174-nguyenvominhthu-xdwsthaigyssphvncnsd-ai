@@ -1,0 +1,11 @@
+# Thư mục docs/
+
+Chứa các tập tin tài liệu văn bản của đồ án tốt nghiệp
+
+## Danh sách file cần có:
+
+1. **DoAn_SimSoDep_NguyenVoMinhThu.docx** - File quyển đồ án định dạng .docx
+2. **DoAn_SimSoDep_NguyenVoMinhThu.pdf** - File quyển đồ án định dạng .pdf
+3. **Slide_BaoVe_SimSoDep.pptx** - Slide bảo vệ đồ án định dạng .pptx
+4. **Poster_SimSoDep_A1.pdf** - Poster giới thiệu đồ án khổ A1 (594 x 841mm) định dạng .pdf
+5. **HUONG_DAN_SU_DUNG.md** - Hướng dẫn sử dụng chương trình, chạy demo
